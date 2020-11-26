@@ -68,7 +68,7 @@ matplotlib, seaborn, altair,Kepler
 
 **部分可视化结果展示：**
 
-![数据看板.png](https://sjwx.easydoc.xyz/17082933/files/khym158b)
+![数据看板.png](https://github.com/yanbing1997/test/blob/main/khym158b.jfif)
 
 ![伦敦房租地理可视化.png](https://sjwx.easydoc.xyz/17082933/files/khym1jnr)
 
