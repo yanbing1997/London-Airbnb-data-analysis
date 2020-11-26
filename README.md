@@ -1,11 +1,14 @@
 # London-Airbnb-data-analysis
 
 **背景**
+
 Airbnb成立于2008年，已经成为全球旅行者非常喜爱的服务。
 在过去的几年里，伦敦的Airbnb房源数量显著增长。
 
 **工具和技术**
+
 **语言**：python
+
 **包**：
 数据加载
 requests, pandas, geopandas
@@ -15,8 +18,11 @@ numpy, pandas, geopandas
 matplotlib, seaborn, altair,Kepler,PowerBI
 
 **业务目标**
+
 **平台**：帮助对众多的房源进行精细化运营,并将平台当前与历史数据可视化形成数据看板
+
 **房东**：帮助改善其房源评分以吸引更多顾客
+
 **租户**：根据需求推荐高质量房源以提升平台口碑
 
 **业务成功标准**：
