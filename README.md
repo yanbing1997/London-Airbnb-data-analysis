@@ -15,7 +15,8 @@ requests, pandas, geopandas
 数据分析：
 numpy, pandas, geopandas
 可视化：
-matplotlib, seaborn, altair,Kepler,PowerBI
+matplotlib, seaborn, altair,Kepler
+数据看板：PowerBI
 
 **业务目标：**
 
