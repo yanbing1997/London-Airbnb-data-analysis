@@ -70,6 +70,6 @@ matplotlib, seaborn, altair,Kepler
 
 ![数据看板.png](https://github.com/yanbing1997/test/blob/main/khym158b.jfif)
 
-![伦敦房租地理可视化.png](https://sjwx.easydoc.xyz/17082933/files/khym1jnr)
+![伦敦房租地理可视化.png](https://github.com/yanbing1997/test/blob/main/khym1jnr.jfif)
 
-![词云](https://sjwx.easydoc.xyz/17082933/files/khyrymuc.png)
+![词云](https://github.com/yanbing1997/test/blob/main/khyrymuc.png)
